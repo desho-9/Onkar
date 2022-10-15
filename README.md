@@ -1,3 +1,2 @@
 # Onkar
-My name is onkar
-I like cricket and Volleyball.
+# Git foe geeks Open source.
