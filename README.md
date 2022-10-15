@@ -1,2 +1,2 @@
 # Onkar
-# Git foe geeks Open source.
+# Git for geeks Open source.
